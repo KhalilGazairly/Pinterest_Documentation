@@ -111,34 +111,66 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 	<img src='https://i.ibb.co/1sVdGW7/1-Landing.png' /> 
 </p>
 	- About PAge
-<img src='https://i.ibb.co/CsBKmnr/2-About.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/CsBKmnr/2-About.png' /> 
+</p>
 	- Sign Up
-<img src='https://i.ibb.co/YQsFf1C/3-SignUp.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/YQsFf1C/3-SignUp.png' /> 
+</p>
 	- Welcome Message
-<img src='https://i.ibb.co/nkcKnRd/4-Welcome.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/nkcKnRd/4-Welcome.png' /> 
+</p>
 	- Choose Category
-<img src='https://i.ibb.co/yWQYbDb/5-Chose-Category.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/yWQYbDb/5-Chose-Category.png' /> 
+</p>
 	- LogIn
-<img src='https://i.ibb.co/DzRX8c5/6-Login.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/DzRX8c5/6-Login.png' /> 
+</p>
 	- Home Page
-<img src='https://i.ibb.co/rwmPrVH/7-Home.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/rwmPrVH/7-Home.png' /> 
+</p>
 	- Pin Details
-<img src='https://i.ibb.co/0VvSNgZ/8-Pin-Details.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/0VvSNgZ/8-Pin-Details.png' /> 
+</p>
 	- Profile Page
-<img src='https://i.ibb.co/WBHBnhK/9-Profile.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/WBHBnhK/9-Profile.png' /> 
+</p>
 	- Create Board
-<img src='https://i.ibb.co/DfhVQKJ/10-Create-Board.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/DfhVQKJ/10-Create-Board.png' /> 
+</p>
 	- Create Pin
-<img src='https://i.ibb.co/d4LQkR3/11-Create-Pin.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/d4LQkR3/11-Create-Pin.png' /> 
+</p>
 	- Board Details
-<img src='https://i.ibb.co/CHmWrtG/12-Board-Details.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/CHmWrtG/12-Board-Details.png' /> 
+</p>
 	- Edit Profile
-<img src='https://i.ibb.co/Wk90DMV/13-Edit-Profile.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/Wk90DMV/13-Edit-Profile.png' /> 
+</p>
 	- All users
-<img src='https://i.ibb.co/Qk3YFJ2/14-All-Users.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/Qk3YFJ2/14-All-Users.png' /> 
+</p>
 	- User Details
-<img src='https://i.ibb.co/z4p6hWx/15-User-Details.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/z4p6hWx/15-User-Details.png' /> 
+</p>
 	- Change Password
-<img src='https://i.ibb.co/R0c45KY/16-Change-Password.png' />
+<p align="center">
+	<img src='https://i.ibb.co/R0c45KY/16-Change-Password.png' />
+</p>
 	- Not Found Page 
-<img src='https://i.ibb.co/BKpCsJH/17-Not-Found-Page.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/BKpCsJH/17-Not-Found-Page.png' /> 
+</p>
