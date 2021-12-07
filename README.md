@@ -10,6 +10,10 @@
 - [Reem Samir Abdelghany Megahed Mahdaly](https://github.com/reemsamir1999)
 # wiki
 
+# Objectives:
+
+	- The Project main goal is to develop a Clone of Pinterest site
+
 As with most other social networks, on Pinterest people can perform standard social networking functions. 
 
 Such as following their friends, liking and commenting on other users’ boards, re-pinning content to their own boards,
@@ -31,21 +35,107 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 - We agrred that:
 # 1- we'll use the class based On Django restframework.
 # 2- Structre of Back-end apps :
-	- Users app
-	- Pins app
-	- Boards app
-	- message app
-	- comments app
-	- caegory app
-	- Front-End app
+	- Backend: 
+		- Users app
+		- Pins app
+		- Boards app
+		- message app
+		- comments app
+		- caegory app
+	- Front-End 
 
 # 3- The sequence of Front-end application be like:
-	- Routes
-	- authontaction 
-	- components
-	- service
+	- Front-End :
+		- Routes
+		- authontaction 
+		- components
+		- service
 
 # 4- The Schema that we work on:
 
 <img src='/Media/schema.png' /> 
 https://drawsql.app/iti-15/diagrams/pinterest#
+
+# 5- Functional Requirements:
+	- Sign up
+	- Log in
+	- Choose categories
+	- View Pins
+	- Create Pin
+	- Delete Pin
+	- Create Board
+	- View Profile
+	- View All Users
+	- Change Password 
+	- Logout
+
+# 6- Main Developing tools:
+	- Django Restframwork API
+	- ReactJs
+
+# 7- API Testing:
+	- Postman
+
+# 8- Deployment:
+	- Heroku
+
+# 9- For Image Storage:
+	- Backblaze
+
+# 10- Version Control:
+	- GitHub
+
+# 11- Developing tools/ Libraries React js:
+	- Material UI
+	- Axios
+	- Bootsrap
+	- React-Bootstrap
+	- React-dom
+	- React-masonry-css
+	- React-Router-dom
+	
+# 12- Developing tools/ Libraries Django:
+	- Django rest framework
+	- Pillow
+	- Psycopg2
+	- Dotenv
+	- Corsheaders
+	
+# 13 - Database:
+	- Postgres
+	
+## Screenshots:
+	- Landing Page
+<img src='/Media/1-Landing.png' /> 
+	- About PAge
+<img src='/Media/2-About.png' /> 
+	- Sign Up
+<img src='/Media/3-SignUp.png' /> 
+	- Welcome Message
+<img src='/Media/4-Welcome.png' /> 
+	- Choose Category
+<img src='/Media/5-ChoseCategory.png' /> 
+	- LogIn
+<img src='/Media/6-Login.png' /> 
+	- Home Page
+<img src='/Media/7-Home.png' /> 
+	- Pin Details
+<img src='/Media/8-PinDetails.png' /> 
+	- Profile Page
+<img src='/Media/9-Profile.png' /> 
+	- Create Board
+<img src='/Media/10-CreateBoard.png' /> 
+	- Create Pin
+<img src='/Media/11-CreatePin.png' /> 
+	- Board Details
+<img src='/Media/12-BoardDetails.png' /> 
+	- Edit Profile
+<img src='/Media/13-EditProfile.png' /> 
+	- All users
+<img src='/Media/14-AllUsers.png' /> 
+	- User Details
+<img src='/Media/15-UserDetails.png' /> 
+	- Change Password
+<img src='/Media/16-ChangePassword.png' />
+	- Not Found Page 
+<img src='/Media/17-NotFoundPage.png' /> 
