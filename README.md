@@ -54,8 +54,10 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 # 4- The Schema that we work on:
 <p align="center">
 	<img src='https://i.ibb.co/1M6mPrp/schema.png' /> 
-https://drawsql.app/iti-15/diagrams/pinterest#
 </p>
+<a href='https://drawsql.app/iti-15/diagrams/pinterest#' align="center">
+https://drawsql.app/iti-15/diagrams/pinterest#
+
 
 # 5- Functional Requirements:
 	- Sign up
