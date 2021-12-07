@@ -56,7 +56,7 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 	<img src='https://i.ibb.co/1M6mPrp/schema.png' /> 
 </p>
 <a href='https://drawsql.app/iti-15/diagrams/pinterest#' align="center">
-https://drawsql.app/iti-15/diagrams/pinterest#
+https://drawsql.app/iti-15/diagrams/pinterest#</a>
 
 
 # 5- Functional Requirements:
