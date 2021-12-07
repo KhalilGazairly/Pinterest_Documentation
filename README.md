@@ -106,7 +106,9 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 	
 ## Screenshots:
 	- Landing Page
-<img src='https://i.ibb.co/1sVdGW7/1-Landing.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/1sVdGW7/1-Landing.png' /> 
+</p>
 	- About PAge
 <img src='https://i.ibb.co/CsBKmnr/2-About.png' /> 
 	- Sign Up
