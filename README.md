@@ -52,8 +52,9 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 		- service
 
 # 4- The Schema that we work on:
-
-<img src='https://i.ibb.co/1M6mPrp/schema.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/1M6mPrp/schema.png' /> 
+</p>
 [DataBase Schema](https://drawsql.app/iti-15/diagrams/pinterest#)
 
 # 5- Functional Requirements:
