@@ -124,7 +124,7 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 	- Profile Page
 <img src='/Media/9-Profile.png' /> 
 	- Create Board
-<img src='/Media/10-CreateBoard.png' /> 
+<img src='https://i.ibb.co/DfhVQKJ/10-Create-Board.png' /> 
 	- Create Pin
 <img src='/Media/11-CreatePin.png' /> 
 	- Board Details
