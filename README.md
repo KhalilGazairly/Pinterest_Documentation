@@ -106,7 +106,7 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 	
 ## Screenshots:
 	- Landing Page
-<img src='/Media/1-Landing.png' /> 
+[Landing Page](/Media/1-Landing.png) 
 	- About PAge
 <img src='/Media/2-About.png' /> 
 	- Sign Up
