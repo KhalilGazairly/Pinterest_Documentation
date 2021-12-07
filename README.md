@@ -53,8 +53,8 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 
 # 4- The Schema that we work on:
 
-<img src='/Media/schema.png' /> 
-https://drawsql.app/iti-15/diagrams/pinterest#
+<img src='https://i.ibb.co/1M6mPrp/schema.png' /> 
+[DataBase Schema](https://drawsql.app/iti-15/diagrams/pinterest#)
 
 # 5- Functional Requirements:
 	- Sign up
@@ -106,36 +106,36 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 	
 ## Screenshots:
 	- Landing Page
-[Landing Page](/Media/1-Landing.png) 
+<img src='https://i.ibb.co/1sVdGW7/1-Landing.png' /> 
 	- About PAge
-<img src='/Media/2-About.png' /> 
+<img src='https://i.ibb.co/CsBKmnr/2-About.png' /> 
 	- Sign Up
-<img src='/Media/3-SignUp.png' /> 
+<img src='https://i.ibb.co/YQsFf1C/3-SignUp.png' /> 
 	- Welcome Message
-<img src='/Media/4-Welcome.png' /> 
+<img src='https://i.ibb.co/nkcKnRd/4-Welcome.png' /> 
 	- Choose Category
-<img src='/Media/5-ChoseCategory.png' /> 
+<img src='https://i.ibb.co/yWQYbDb/5-Chose-Category.png' /> 
 	- LogIn
-<img src='/Media/6-Login.png' /> 
+<img src='https://i.ibb.co/DzRX8c5/6-Login.png' /> 
 	- Home Page
-<img src='/Media/7-Home.png' /> 
+<img src='https://i.ibb.co/rwmPrVH/7-Home.png' /> 
 	- Pin Details
-<img src='/Media/8-PinDetails.png' /> 
+<img src='https://i.ibb.co/0VvSNgZ/8-Pin-Details.png' /> 
 	- Profile Page
-<img src='/Media/9-Profile.png' /> 
+<img src='https://i.ibb.co/WBHBnhK/9-Profile.png' /> 
 	- Create Board
 <img src='https://i.ibb.co/DfhVQKJ/10-Create-Board.png' /> 
 	- Create Pin
-<img src='/Media/11-CreatePin.png' /> 
+<img src='https://i.ibb.co/d4LQkR3/11-Create-Pin.png' /> 
 	- Board Details
-<img src='/Media/12-BoardDetails.png' /> 
+<img src='https://i.ibb.co/CHmWrtG/12-Board-Details.png' /> 
 	- Edit Profile
-<img src='/Media/13-EditProfile.png' /> 
+<img src='https://i.ibb.co/Wk90DMV/13-Edit-Profile.png' /> 
 	- All users
-<img src='/Media/14-AllUsers.png' /> 
+<img src='https://i.ibb.co/Qk3YFJ2/14-All-Users.png' /> 
 	- User Details
-<img src='/Media/15-UserDetails.png' /> 
+<img src='https://i.ibb.co/z4p6hWx/15-User-Details.png' /> 
 	- Change Password
-<img src='/Media/16-ChangePassword.png' />
+<img src='https://i.ibb.co/R0c45KY/16-Change-Password.png' />
 	- Not Found Page 
-<img src='/Media/17-NotFoundPage.png' /> 
+<img src='https://i.ibb.co/BKpCsJH/17-Not-Found-Page.png' /> 
