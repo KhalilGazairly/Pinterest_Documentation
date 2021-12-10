@@ -28,6 +28,9 @@ Colorful infographics, and visual media, that promote deals, new products, and m
 Pinning pictures of employees could also help customers identify with the people who work at the company, putting a face to a name 
 and providing more information potential clients or customers love to know.
 
+# Live Deployment:
+[Pinterest Clone](https://pinterest-iti.herokuapp.com/)
+
 
 # This is Documentation for the pinterest clone project for iti.
 
